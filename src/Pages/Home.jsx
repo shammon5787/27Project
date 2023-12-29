@@ -7,7 +7,7 @@ const Home = () => {
         <>    
         <div style={{ textAlign: 'center', alignItems: 'center', justifyContent: 'space-between' }}>
             <h1>Welcome to My Webite</h1>
-            <section>
+            <section> 
                 <h2>Products</h2>
                 <Products />
             </section>
